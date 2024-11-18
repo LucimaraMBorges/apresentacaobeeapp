@@ -115,7 +115,7 @@ form input[type=button] {
 }
 
 .princ {
-    display: flex;
+    display: inline;
     justify-content: center;
     padding: 1em;
     align-items: center;
