@@ -248,7 +248,8 @@ footer {
 
 @media (max-width: 500px) {
     p {
-        font-size: 8px;
+        font-size: 3vw;
+        padding: 0 20px;
         
         margin: auto;
     }
