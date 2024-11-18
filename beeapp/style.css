@@ -246,7 +246,7 @@ footer {
     padding: 5px;
 } 
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
     p {
         font-size: 3vw;
         padding: 20px 0;
