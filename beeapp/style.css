@@ -115,9 +115,10 @@ form input[type=button] {
 }
 
 .princ {
-    
+    width: 100%;
     padding: 10px 40px;
     align-items: center;
+    text-align: center;
 }
 
 div.areas {
