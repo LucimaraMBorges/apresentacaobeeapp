@@ -75,8 +75,8 @@ header {
 header > h2 {
     color: white;
     font-family: var(--fonte-padrao);
-    font-size: 18px;
-    margin-bottom: 20px;
+    font-size: 16px;
+    margin-bottom: 16px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.281);
 
 }
