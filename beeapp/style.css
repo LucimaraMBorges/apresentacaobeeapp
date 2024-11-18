@@ -123,7 +123,13 @@ form input[type=button] {
     text-align: center;
     margin: -15px;
 }
-
+.cam {
+    width: 100%;
+    padding: 10px 30px;
+    align-items: center;
+    text-align: center;
+    margin: -15px;   
+}
 div.areas {
     font: normal 28pt Arial;
     background: #062361;
