@@ -31,9 +31,10 @@
 * {
     margin: 0px;
     padding: 0px;
-    width: 100%;
+    
 }
 body {
+    width: 100%;
     background-color: white;
     font-family: var(--fonte-padrao);
     
